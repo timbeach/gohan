@@ -40,3 +40,5 @@ Use [BARBS](https://tanklinux.com/barbs.sh) to autoinstall everything:
 curl -LO tanklinux.com/barbs.sh
 sh barbs.sh
 ```
+
+☦️
